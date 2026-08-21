@@ -46,29 +46,6 @@ This project marks an important milestone in my transition from basic JavaScript
 
 ---
 
-🧱 Project Structure
-```
-Food-API-Explorer/
-│
-├── src/
-│   ├── components/        # Reusable UI components
-│   ├── pages/             # Main pages (Home, Details)
-│   ├── App.js             # Root component
-│   ├── index.js           # React entry point
-│   ├── styles/            # CSS files (if applicable)
-│   └── api/               # API helpers (optional)
-│
-├── public/
-│   └── index.html         # HTML template
-│
-├── package.json           # Dependencies & scripts
-├── README.md              # Documentation
-└── .gitignore
-```
-Structure may vary slightly depending on your implementation, but this reflects a typical React project layout.
-
----
-
 ## Installation & Setup
 Clone the repository:
 ```
